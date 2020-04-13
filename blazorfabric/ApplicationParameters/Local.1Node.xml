@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/blazorfabric" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="blazorfront_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="blazorfront_InstanceCount" Value="1" />
+    <Parameter Name="ConfigCertificateThumbprint" Value="a76473ec7f461cf2724b073dd12d48208d1bfd21" />
+  </Parameters>
+</Application>
